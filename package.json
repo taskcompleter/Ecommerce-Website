@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "",
+  "version": "",
+  "dependencies": {
+    "mysql2": "^1.5.1",
+    "sequelize": "^4.28.6"
+  }
+}
